@@ -219,4 +219,4 @@ $('.education-entry').children('a').last().attr('href', 'https://www.udacity.com
 $('.project-entry').children('img').addClass('responsive');
 $('.project-entry').children('img').attr('alt', 'Personal portfolio');
 $('.responsive').css('max-width', '100%');
-$('.project-entry').children('a').attr('href', 'https://portfolio.honeypatkar.repl.co/');
+$('.project-entry').children('a').attr('href', 'https://myportfolio.honeypatkar.repl.co/');
